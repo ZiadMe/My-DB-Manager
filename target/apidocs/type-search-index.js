@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"de.wbs.ziad.My_DB_Manager","l":"App"},{"p":"de.wbs.ziad.My_DB_Manager","l":"ConnectionManager"},{"p":"de.wbs.ziad.My_DB_Manager","l":"DBUtils"},{"p":"de.wbs.ziad.My_DB_Manager","l":"PrimaryController"},{"p":"de.wbs.ziad.My_DB_Manager","l":"ShowController"}];updateSearchResults();

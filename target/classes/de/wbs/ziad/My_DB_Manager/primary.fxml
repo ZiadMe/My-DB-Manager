@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="607.0" prefWidth="833.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="de.wbs.ziad.My_DB_Manager.PrimaryController">
+   <children>
+      <Label layoutX="51.0" layoutY="38.0" text="Host">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="48.0" layoutY="100.0" text="DB_Name">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="48.0" layoutY="149.0" text="Port">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="47.0" layoutY="199.0" text="User">
+         <font>
+            <Font size="29.0" />
+         </font>
+      </Label>
+      <Label layoutX="43.0" layoutY="255.0" text="Password">
+         <font>
+            <Font size="30.0" />
+         </font>
+      </Label>
+      <TextField id="hostadd" fx:id="hostadd" layoutX="255.0" layoutY="48.0" promptText="host" />
+      <TextField id="dbname" fx:id="dbname" layoutX="255.0" layoutY="110.0" promptText="dbname" />
+      <TextField id="portnumber" fx:id="portnumber" layoutX="255.0" layoutY="159.0" promptText="port" />
+      <TextField id="username" fx:id="username" layoutX="255.0" layoutY="208.0" promptText="user" />
+      <TextField id="password" fx:id="password" layoutX="255.0" layoutY="265.0" promptText="password" />
+      <Button layoutX="451.0" layoutY="361.0" mnemonicParsing="false" onAction="#connect" prefHeight="36.0" prefWidth="109.0" text="Connect" />
+      <Label id="lblstatus" fx:id="lblstatus" layoutX="241.0" layoutY="361.0" prefHeight="36.0" prefWidth="138.0" text="Status : " />
+      <Button layoutX="21.0" layoutY="361.0" mnemonicParsing="false" onAction="#disconnect" prefHeight="36.0" prefWidth="109.0" text="Disconnect" />
+      <Button layoutX="451.0" layoutY="304.0" mnemonicParsing="false" onAction="#showContent" prefHeight="36.0" prefWidth="109.0" text="Show content" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/Users/User/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13.jar;C:/Users/User/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13.jar;C:/Users/User/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13.jar;C:/Users/User/.m2/repository/mysql/mysql-connector-java/8.0.27/mysql-connector-java-8.0.27.jar;C:/Users/User/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar;C:/Users/User/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13.jar'
+--module-path
+'C:/Users/User/eclipse-workspace/My-DB-Manager/target/My-DB-Manager-0.0.1-SNAPSHOT.jar;C:/Users/User/.m2/repository/org/openjfx/javafx-graphics/13/javafx-graphics-13-win.jar;C:/Users/User/.m2/repository/org/openjfx/javafx-fxml/13/javafx-fxml-13-win.jar;C:/Users/User/.m2/repository/org/openjfx/javafx-controls/13/javafx-controls-13-win.jar;C:/Users/User/.m2/repository/org/openjfx/javafx-base/13/javafx-base-13-win.jar'
+--patch-module
+de.wbs.ziad.My_DB_Manager='C:/Users/User/eclipse-workspace/My-DB-Manager/src/main/java;C:/Users/User/eclipse-workspace/My-DB-Manager/target/generated-sources/annotations'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+--module-source-path
+'C:/Users/User/eclipse-workspace/My-DB-Manager/target/apidocs/src'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/User/eclipse-workspace/My-DB-Manager/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'My-DB-Manager 0.0.1-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/User/eclipse-workspace/My-DB-Manager/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'My-DB-Manager 0.0.1-SNAPSHOT API'
+de.wbs.ziad.My_DB_Manager
+'C:/Users/User/eclipse-workspace/My-DB-Manager/src/main/java/module-info.java'
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\allclasses-index.html = 1642174448339
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\allpackages-index.html = 1642174448341
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\element-list = 1642174448271
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\help-doc.html = 1642174448367
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\index-all.html = 1642174448361
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\index.html = 1642174448363
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\jquery-ui.overrides.css = 1642174448456
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\member-search-index.js = 1642174448348
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\module-search-index.js = 1642174448345
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\overview-tree.html = 1642174448326
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\package-search-index.js = 1642174448346
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\script.js = 1642174448381
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\search.js = 1642174448383
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\stylesheet.css = 1642174448375
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\tag-search-index.js = 1642174448349
+C:\Users\User\eclipse-workspace\My-DB-Manager\target\apidocs\type-search-index.js = 1642174448348

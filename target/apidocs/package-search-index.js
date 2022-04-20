@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"de.wbs.ziad.My_DB_Manager","l":"de.wbs.ziad.My_DB_Manager"}];updateSearchResults();
